@@ -6,7 +6,6 @@ require (
 	github.com/caarlos0/env v0.0.0-20161013201842-d0de832ed2fb
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/fatih/color v1.7.0
-	github.com/fsnotify/fsnotify v1.4.7 // indirect
 	github.com/hashicorp/go-version v0.0.0-20180716215031-270f2f71b1ee
 	github.com/imdario/mergo v0.3.6
 	github.com/inconshreveable/go-update v0.0.0-20160112193335-8152e7eb6ccf
@@ -19,18 +18,17 @@ require (
 	github.com/ryanuber/go-glob v0.0.0-20160226084822-572520ed46db
 	github.com/shibukawa/configdir v0.0.0-20170330084843-e180dbdc8da0
 	github.com/skratchdot/open-golang v0.0.0-20160302144031-75fb7ed4208c
+	github.com/smartystreets/goconvey v1.7.2 // indirect
 	github.com/spf13/cobra v0.0.0-20180722215644-7c4570c3ebeb
 	github.com/spf13/pflag v1.0.2 // indirect
 	github.com/stretchr/objx v0.1.1 // indirect
 	github.com/stretchr/testify v1.2.2
 	github.com/vbauerster/mpb v3.3.2+incompatible
-	golang.org/x/crypto v0.0.0-20190313024323-a1f597ede03a // indirect
-	golang.org/x/lint v0.0.0-20190313153728-d0100b6bd8b3 // indirect
-	golang.org/x/net v0.0.0-20190320064053-1272bf9dcd53 // indirect
-	golang.org/x/sync v0.0.0-20180314180146-1d60e4601c6f
-	golang.org/x/sys v0.0.0-20190318195719-6c81ef8f67ca // indirect
-	golang.org/x/tools v0.0.0-20190319232107-3f1ed9edd1b4 // indirect
+	golang.org/x/crypto v0.1.0 // indirect
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
+	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	gopkg.in/yaml.v1 v1.0.0-20140924161607-9f9df34309c0
+	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
 
 go 1.13
